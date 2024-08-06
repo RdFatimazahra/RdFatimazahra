@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatima Ezzahra RADI</h1>
 <h3 align="center">A Full Stack Java Developper / Angular</h3>
 
-- 🔭 I’m currently working on **LageLib**
+- 🔭 I’m currently working on **SupportIT**
 
 - 🌱 I’m currently learning **Java/Angular**
 
